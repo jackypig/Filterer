@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F03BF671ED8020EDB209CAF1E7CFBEA287FCE44C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F03BF671ED8020EDB209CAF1E7CFBEA287FCE44C" : 0,
+    "11EF7B55B6A3C276634ABEFCCD509D95AFAB419F" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4833AB33-6BAC-4C46-B160-9D395E5DE960",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F03BF671ED8020EDB209CAF1E7CFBEA287FCE44C" : "Filterer\/",
+    "11EF7B55B6A3C276634ABEFCCD509D95AFAB419F" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Filterer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Filterer.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/XappMedia\/QA_Automation.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "11EF7B55B6A3C276634ABEFCCD509D95AFAB419F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jackypig\/Filterer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F03BF671ED8020EDB209CAF1E7CFBEA287FCE44C"
+    }
+  ]
+}
